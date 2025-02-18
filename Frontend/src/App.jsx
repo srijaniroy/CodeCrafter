@@ -27,6 +27,9 @@ function App() {
 
   return (
     <>
+    <header className="header">
+        <h1>CodeCrafter</h1>
+      </header>
       <main>
         <div className="left">
           <div className="code">
