@@ -63,11 +63,7 @@ npm run dev
 3. **AI Feedback:** The AI analyzes the code and generates feedback, which is then displayed in a formatted review on the frontend.
 4. **Suggestions & Fixes:** The review includes suggestions for improving code quality, performance, error fixes, and security checks.
 
-
-## Future Enhancements  
-- **User Authentication** (Sign-up, login, and user history).  
-- **Real-Time Collaboration** (Live editing and reviews).  
-- **Code Auto-Fixes** (Automatically apply AI-suggested corrections and optimizations to your code with a single click).  
+---
 
 ## Technologies Used
 
@@ -83,4 +79,7 @@ npm run dev
 
 ---
  
-
+## Future Enhancements  
+- **User Authentication** (Sign-up, login, and user history).  
+- **Real-Time Collaboration** (Live editing and reviews).  
+- **Code Auto-Fixes** (Automatically apply AI-suggested corrections and optimizations to your code with a single click).  
