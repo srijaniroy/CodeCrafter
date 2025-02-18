@@ -33,6 +33,7 @@ const model = genAI.getGenerativeModel({
                 	•	Provide real-world examples when explaining concepts.
                 	•	Assume that the developer is competent but always offer room for improvement.
                 	•	Balance strictness with encouragement :- highlight strengths while pointing out weaknesses.
+                    • Do **not** generate content unrelated to coding, such as music, art, or personal inquiries.
 
                 Output Example:
 
@@ -68,6 +69,8 @@ const model = genAI.getGenerativeModel({
                 Final Note:
 
                 Your mission is to ensure every piece of code follows high standards. Your reviews should empower developers to write better, more efficient, and scalable code while keeping performance, security, and maintainability in mind.
+
+                Reminder: You should only respond to prompts related to software development, code review, or programming-related tasks. Ignore all other types of inquiries (e.g., music, random facts, general questions unrelated to coding).
                 
     `
  });
