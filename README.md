@@ -1,6 +1,9 @@
 
 # CodeCrafter  
-An **AI-powered tool** built with the **MERN stack** for **analyzing, reviewing, and generating** code to boost development efficiency.  
+An **AI-powered tool** built with the **MERN stack** for **analyzing, reviewing, and generating** code to boost development efficiency.
+
+![Demo](./Demo%20Screenshots/Demo.png)
+
 
 ## Features  
 - **AI Code Review**: Analyzes your code and suggests improvements.  
