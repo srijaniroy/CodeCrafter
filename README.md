@@ -26,11 +26,11 @@ An **AI-powered tool** built with the **MERN stack** for **analyzing, reviewing,
    ```sh
    # Backend
    cd BackEnd
-   npm install
+   npm i --legacy-peer-deps
 
    # Frontend
    cd ../Frontend
-   npm install
+   npm i --legacy-peer-deps
    ```
 
 3. Set Up Environment Variables  
