@@ -60,6 +60,9 @@ function App() {
           >{review}</Markdown>
         </div>
       </main>
+      <footer className="footer">
+        Made with💗 by Srijani Roy
+      </footer>
     </>
   )
 }
