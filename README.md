@@ -2,6 +2,7 @@
 # CodeCrafter  
 An **AI-powered tool** built with the **MERN stack** for **analyzing, reviewing, and generating** code to boost development efficiency.
 
+**Live Demo**: [CodeCrafter Live](https://codecrafterlive.vercel.app/)  
 
 ## Features  
 - **AI Code Review**: Analyzes your code and suggests improvements.  
