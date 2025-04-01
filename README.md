@@ -18,7 +18,7 @@ An **AI-powered tool** built with the **MERN stack** for **analyzing, reviewing,
 
 1. Clone the Repository  
    ```sh
-   git clone https://github.com/srijaniroy/CodeCrafter
+   git clone https://github.com/srijaniroy/CodeCrafter.git
    cd CodeCrafter
    ```
 
